@@ -460,11 +460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stanislav_Tarasenko1\\Desktop\\Senior Presentation\\Assessment\\Assessment\\Assessment.csproj",
+      "projectUniqueName": "C:\\Users\\Stanislav_Tarasenko1\\Desktop\\Senior Presentation\\EpamAsmt\\Assessment\\Assessment.csproj",
       "projectName": "Assessment",
-      "projectPath": "C:\\Users\\Stanislav_Tarasenko1\\Desktop\\Senior Presentation\\Assessment\\Assessment\\Assessment.csproj",
+      "projectPath": "C:\\Users\\Stanislav_Tarasenko1\\Desktop\\Senior Presentation\\EpamAsmt\\Assessment\\Assessment.csproj",
       "packagesPath": "C:\\Users\\Stanislav_Tarasenko1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stanislav_Tarasenko1\\Desktop\\Senior Presentation\\Assessment\\Assessment\\obj\\",
+      "outputPath": "C:\\Users\\Stanislav_Tarasenko1\\Desktop\\Senior Presentation\\EpamAsmt\\Assessment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12,7 +12,6 @@ namespace Assessment.Services
      * Creation Date:   07/21/2022
      * Usage:           To use object of the class it is required to use "using" block and creating
      *                  instance of the object it is required to pass size of the required unmanaged memory
-     *     
      */
     public class UnmanagedMemoryService : IDisposable
     {

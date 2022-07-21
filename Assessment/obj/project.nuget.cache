@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1a08ETa8EPccZecR8jOwfPu4oh8EPRz+5ndp+eNZWS7vJ4c3iD+6sTyhr721D396/3J1veY2Khe6ioVDfKsC5g==",
+  "dgSpecHash": "EGcDxuntYdgFLLtUqfB6As0YRvdjKokL3sgFsjbK+VEkjVgXmaLTAxIglex+bvIKYLXGrY+n6ohigwbA29ipPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stanislav_Tarasenko1\\Desktop\\Senior Presentation\\Assessment\\Assessment\\Assessment.csproj",
+  "projectFilePath": "C:\\Users\\Stanislav_Tarasenko1\\Desktop\\Senior Presentation\\EpamAsmt\\Assessment\\Assessment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stanislav_Tarasenko1\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Stanislav_Tarasenko1\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
