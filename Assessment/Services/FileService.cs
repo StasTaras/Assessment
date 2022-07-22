@@ -48,7 +48,6 @@ namespace Assessment.Services
             GC.SuppressFinalize(this);
         }
 
-
         ~FileService() => ReleaseUnmanagedResources(false);
     }
 }
