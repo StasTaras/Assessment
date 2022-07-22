@@ -4,6 +4,16 @@ using System.Text;
 
 namespace Assessment.Services
 {
+    /*
+    * FileService it is the service to show how to open/close file
+    *
+    * Disposed pattern was used here to close the File and to avoid memory leaks
+    *
+    * Created by:      Stanislav Tarasenko
+    * Creation Date:   07/22/2022
+    * Usage:           To use object of the class it is required to use "using" block and creating
+    *                  instance of the object it is required to pass filePath to work with it
+    */
     public class FileService : IDisposable
     {
         private bool _disposed;

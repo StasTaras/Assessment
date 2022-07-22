@@ -3,6 +3,16 @@ using System.Data.SqlClient;
 
 namespace Assessment.Services
 {
+    /*
+    * TransactionService it is the service to show how to open/close/rollback transaction
+    *
+    * "using" keyword to dispose connection to data base
+    *
+    * Created by:      Stanislav Tarasenko
+    * Creation Date:   07/22/2022
+    * Usage:           To use object of the class it is required to pass connection string to db to work with it
+    *
+    */
     public class TransactionService
     {
         private readonly string _connectionString;
